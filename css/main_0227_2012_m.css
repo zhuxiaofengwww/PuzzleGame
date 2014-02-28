@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* Main css document for the puzzle site */
+
+
+.main {
+	background-image:url('images/background.png'); 
+	background-repeat:no-repeat; 
+	overflow:auto; 
+	height:600px; 
+	font-family:Arial, Helvetica, sans-serif;
+}
